@@ -112,7 +112,7 @@ Development & Integration
 Automation & Optimization
        ↓
 Launch & Scale
-```
+
 
 I focus on **clean development, performance, security, scalability and real business value.**
 
